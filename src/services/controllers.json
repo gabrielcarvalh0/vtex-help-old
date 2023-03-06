@@ -1,0 +1,102 @@
+[
+  {
+    "viewpart": "AmountItemsInCart",
+    "description": {
+      "title": "Resumo do Carinho",
+      "text": "Exibe os totais de produtos inseridos no carrinho de compras. Ideal para ser usado no Header das lojas.    "
+    }
+  },
+  {
+    "viewpart": "breadCrumb ",
+    "description": {
+      "title": "Bread Crumb",
+      "text": "Funciona apenas nas páginas de Produto, Departamento, Categoria e Busca."
+    }
+  },
+  {
+    "viewpart": "fullTextSearchBox",
+    "description": {
+      "title": "Busca Total",
+      "text": "Exibe os totais de produtos inseridos no carrinho de compras. Ideal para ser usado no Header das lojas.    "
+    }
+  },
+
+  {
+    "viewpart": "navigationHistory",
+    "description": {
+      "title": "Histórico de Navegação",
+      "text": "Exibe as últimas busca e últimos produtos vistos. Para ativar a funcionalidade de últimos produtos vistos, necessário adicionar esse controle na página de produto"
+    }
+  },
+  {
+    "viewpart": "storeFlagLocator",
+    "description": {
+      "title": "Localizador de Lojas",
+      "text": "Requisitos: Cadastrar no ADMIN as Lojas Físicas e seus endereços. Além disso, pesquisar cada endereço no Google Maps e preencher os devidos campos. Necessário configurar no banco de conexão da Loja a chave do Google Maps adquirida pela Loja."
+    }
+  },
+  {
+    "viewpart": "welcomeMessage",
+    "description": {
+      "title": "Mensagem de Boas Vindas",
+      "text": "No admin, na aba Configurações > Textos, é possível alterar a frase de Bem vindo."
+    }
+  },
+
+  {
+    "viewpart": "metaTags",
+    "description": {
+      "title": "META TAGs",
+      "text": ""
+    }
+  },
+  {
+    "viewpart": "departmentLinks",
+    "description": {
+      "title": "Links de Departamentos",
+      "text": "Apresenta o primeiro nível de categorias criado no Admin. Necessário configurar no Departamento que o mesmo será apresentado no Menu Superior."
+    }
+  },
+  {
+    "viewpart": "departmentNavigator",
+    "description": {
+      "title": "Menu de Departamentos",
+      "text": "Os Departamentos e Categorias são apresentadas de acordo com o cadastro dos 1º e 2º Níveis. Para exibir o Link [Lista Completa], também é necessário uma configuração nas Categorias Ativas do Departamento."
+    }
+  },
+  {
+    "viewpart": "newsletterOptIn",
+    "description": {
+      "title": "Newsletter",
+      "text": "Formulário para cadastro de uma lista de nome e e-mail cadastrado pelos Clientes."
+    }
+  },
+  {
+    "viewpart": "",
+    "description": {
+      "title": "",
+      "text": ""
+    }
+  },
+  {
+    "viewpart": "",
+    "description": {
+      "title": "",
+      "text": ""
+    }
+  },
+  {
+    "viewpart": "",
+    "description": {
+      "title": "",
+      "text": ""
+    }
+  },
+  {
+    "viewpart": "",
+    "description": {
+      "title": "",
+      "text": ""
+    }
+  }
+]
